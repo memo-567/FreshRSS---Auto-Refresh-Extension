@@ -6,5 +6,5 @@ To use it, upload the *xExtension-AutoRefresh* folder into your ./extensions dir
 
 # Changelog
 1.4 [26/05/2024]
-- Cloned since no longer maintained by Essa Al Awadi
+- Cloned since no longer maintained
 - Adapted to FrshRSS Verison 1.24.0
